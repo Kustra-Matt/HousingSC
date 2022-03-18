@@ -1,0 +1,199 @@
+Campus,Expense,Cost,Status
+UC Berkely,Housing,14080,Single Students
+UC Davis,Housing,10260,Single Students
+UC Irvine,Housing,9920,Single Students
+UC Los Angeles,Housing,14410,Single Students
+UC Merced,Housing,7600,Single Students
+UC Riverside,Housing,8960,Single Students
+UC San Diego,Housing,10010,Single Students
+UC San Francisco,Housing,15420,Single Students
+UC Santa Barbara,Housing,11450,Single Students
+UC Santa Cruz,Housing,12690,Single Students
+System Average,Housing,11870,Single Students
+UC Berkely,Groceries,7760,Single Students
+UC Davis,Groceries,7900,Single Students
+UC Irvine,Groceries,7500,Single Students
+UC Los Angeles,Groceries,8050,Single Students
+UC Merced,Groceries,7500,Single Students
+UC Riverside,Groceries,6660,Single Students
+UC San Diego,Groceries,7650,Single Students
+UC San Francisco,Groceries,8180,Single Students
+UC Santa Barbara,Groceries,6740,Single Students
+UC Santa Cruz,Groceries,7270,Single Students
+System Average,Groceries,7580,Single Students
+UC Berkely,Utilities***,1510,Single Students
+UC Davis,Utilities***,1670,Single Students
+UC Irvine,Utilities***,1280,Single Students
+UC Los Angeles,Utilities***,1700,Single Students
+UC Merced,Utilities***,2100,Single Students
+UC Riverside,Utilities***,1830,Single Students
+UC San Diego,Utilities***,1440,Single Students
+UC San Francisco,Utilities***,1700,Single Students
+UC Santa Barbara,Utilities***,1730,Single Students
+UC Santa Cruz,Utilities***,1980,Single Students
+System Average,Utilities***,1640,Single Students
+UC Berkely,Personal*,2450,Single Students
+UC Davis,Personal*,2420,Single Students
+UC Irvine,Personal*,2510,Single Students
+UC Los Angeles,Personal*,2480,Single Students
+UC Merced,Personal*,2440,Single Students
+UC Riverside,Personal*,2210,Single Students
+UC San Diego,Personal*,2270,Single Students
+UC San Francisco,Personal*,3030,Single Students
+UC Santa Barbara,Personal*,2270,Single Students
+UC Santa Cruz,Personal*,2340,Single Students
+System Average,Personal*,2410,Single Students
+UC Berkely,Transportation**,2480,Single Students
+UC Davis,Transportation**,2570,Single Students
+UC Irvine,Transportation**,3090,Single Students
+UC Los Angeles,Transportation**,3020,Single Students
+UC Merced,Transportation**,2590,Single Students
+UC Riverside,Transportation**,2900,Single Students
+UC San Diego,Transportation**,2860,Single Students
+UC San Francisco,Transportation**,3300,Single Students
+UC Santa Barbara,Transportation**,2180,Single Students
+UC Santa Cruz,Transportation**,2630,Single Students
+System Average,Transportation**,2730,Single Students
+UC Berkely,Books and Supplies,310,Single Students
+UC Davis,Books and Supplies,380,Single Students
+UC Irvine,Books and Supplies,370,Single Students
+UC Los Angeles,Books and Supplies,370,Single Students
+UC Merced,Books and Supplies,400,Single Students
+UC Riverside,Books and Supplies,370,Single Students
+UC San Diego,Books and Supplies,260,Single Students
+UC San Francisco,Books and Supplies,230,Single Students
+UC Santa Barbara,Books and Supplies,350,Single Students
+UC Santa Cruz,Books and Supplies,390,Single Students
+System Average,Books and Supplies,340,Single Students
+UC Berkely,Housing,18720,Students with a Partner
+UC Davis,Housing,14910,Students with a Partner
+UC Irvine,Housing,15580,Students with a Partner
+UC Los Angeles,Housing,18760,Students with a Partner
+UC Merced,Housing,10980,Students with a Partner
+UC Riverside,Housing,13380,Students with a Partner
+UC San Diego,Housing,16480,Students with a Partner
+UC San Francisco,Housing,21880,Students with a Partner
+UC Santa Barbara,Housing,15340,Students with a Partner
+UC Santa Cruz,Housing,18240,Students with a Partner
+System Average,Housing,16800,Students with a Partner
+UC Berkely,Groceries,9470,Students with a Partner
+UC Davis,Groceries,9210,Students with a Partner
+UC Irvine,Groceries,10120,Students with a Partner
+UC Los Angeles,Groceries,10900,Students with a Partner
+UC Merced,Groceries,9620,Students with a Partner
+UC Riverside,Groceries,9240,Students with a Partner
+UC San Diego,Groceries,10390,Students with a Partner
+UC San Francisco,Groceries,10620,Students with a Partner
+UC Santa Barbara,Groceries,9800,Students with a Partner
+UC Santa Cruz,Groceries,9550,Students with a Partner
+System Average,Groceries,9960,Students with a Partner
+UC Berkely,Utilities***,2490,Students with a Partner
+UC Davis,Utilities***,2600,Students with a Partner
+UC Irvine,Utilities***,2610,Students with a Partner
+UC Los Angeles,Utilities***,2440,Students with a Partner
+UC Merced,Utilities***,3340,Students with a Partner
+UC Riverside,Utilities***,2860,Students with a Partner
+UC San Diego,Utilities***,2390,Students with a Partner
+UC San Francisco,Utilities***,2270,Students with a Partner
+UC Santa Barbara,Utilities***,2400,Students with a Partner
+UC Santa Cruz,Utilities***,2400,Students with a Partner
+System Average,Utilities***,2540,Students with a Partner
+UC Berkely,Personal*,2830,Students with a Partner
+UC Davis,Personal*,2800,Students with a Partner
+UC Irvine,Personal*,3300,Students with a Partner
+UC Los Angeles,Personal*,3290,Students with a Partner
+UC Merced,Personal*,2990,Students with a Partner
+UC Riverside,Personal*,2420,Students with a Partner
+UC San Diego,Personal*,3030,Students with a Partner
+UC San Francisco,Personal*,3160,Students with a Partner
+UC Santa Barbara,Personal*,3090,Students with a Partner
+UC Santa Cruz,Personal*,2720,Students with a Partner
+System Average,Personal*,3000,Students with a Partner
+UC Berkely,Transportation**,3130,Students with a Partner
+UC Davis,Transportation**,2730,Students with a Partner
+UC Irvine,Transportation**,3140,Students with a Partner
+UC Los Angeles,Transportation**,3240,Students with a Partner
+UC Merced,Transportation**,3050,Students with a Partner
+UC Riverside,Transportation**,3090,Students with a Partner
+UC San Diego,Transportation**,2640,Students with a Partner
+UC San Francisco,Transportation**,3710,Students with a Partner
+UC Santa Barbara,Transportation**,2740,Students with a Partner
+UC Santa Cruz,Transportation**,2800,Students with a Partner
+System Average,Transportation**,2980,Students with a Partner
+UC Berkely,Books and Supplies,350,Students with a Partner
+UC Davis,Books and Supplies,390,Students with a Partner
+UC Irvine,Books and Supplies,410,Students with a Partner
+UC Los Angeles,Books and Supplies,440,Students with a Partner
+UC Merced,Books and Supplies,410,Students with a Partner
+UC Riverside,Books and Supplies,430,Students with a Partner
+UC San Diego,Books and Supplies,340,Students with a Partner
+UC San Francisco,Books and Supplies,270,Students with a Partner
+UC Santa Barbara,Books and Supplies,470,Students with a Partner
+UC Santa Cruz,Books and Supplies,410,Students with a Partner
+System Average,Books and Supplies,400,Students with a Partner
+UC Berkely,Housing,22260,Students with Dependents
+UC Davis,Housing,17950,Students with Dependents
+UC Irvine,Housing,19260,Students with Dependents
+UC Los Angeles,Housing,21120,Students with Dependents
+UC Merced,Housing,13350,Students with Dependents
+UC Riverside,Housing,18990,Students with Dependents
+UC San Diego,Housing,16900,Students with Dependents
+UC San Francisco,Housing,25380,Students with Dependents
+UC Santa Barbara,Housing,18130,Students with Dependents
+UC Santa Cruz,Housing,20350,Students with Dependents
+System Average,Housing,19250,Students with Dependents
+UC Berkely,Groceries,13380,Students with Dependents
+UC Davis,Groceries,13700,Students with Dependents
+UC Irvine,Groceries,13760,Students with Dependents
+UC Los Angeles,Groceries,15190,Students with Dependents
+UC Merced,Groceries,13800,Students with Dependents
+UC Riverside,Groceries,12460,Students with Dependents
+UC San Diego,Groceries,14230,Students with Dependents
+UC San Francisco,Groceries,18840,Students with Dependents
+UC Santa Barbara,Groceries,14840,Students with Dependents
+UC Santa Cruz,Groceries,13340,Students with Dependents
+System Average,Groceries,14140,Students with Dependents
+UC Berkely,Utilities***,4050,Students with Dependents
+UC Davis,Utilities***,4460,Students with Dependents
+UC Irvine,Utilities***,3420,Students with Dependents
+UC Los Angeles,Utilities***,4080,Students with Dependents
+UC Merced,Utilities***,3950,Students with Dependents
+UC Riverside,Utilities***,4070,Students with Dependents
+UC San Diego,Utilities***,3160,Students with Dependents
+UC San Francisco,Utilities***,3840,Students with Dependents
+UC Santa Barbara,Utilities***,4480,Students with Dependents
+UC Santa Cruz,Utilities***,4380,Students with Dependents
+System Average,Utilities***,4010,Students with Dependents
+UC Berkely,Personal*,4330,Students with Dependents
+UC Davis,Personal*,3780,Students with Dependents
+UC Irvine,Personal*,3860,Students with Dependents
+UC Los Angeles,Personal*,4290,Students with Dependents
+UC Merced,Personal*,3740,Students with Dependents
+UC Riverside,Personal*,3670,Students with Dependents
+UC San Diego,Personal*,4490,Students with Dependents
+UC San Francisco,Personal*,4280,Students with Dependents
+UC Santa Barbara,Personal*,4340,Students with Dependents
+UC Santa Cruz,Personal*,4740,Students with Dependents
+System Average,Personal*,4130,Students with Dependents
+UC Berkely,Transportation**,3150,Students with Dependents
+UC Davis,Transportation**,3310,Students with Dependents
+UC Irvine,Transportation**,3820,Students with Dependents
+UC Los Angeles,Transportation**,3580,Students with Dependents
+UC Merced,Transportation**,3510,Students with Dependents
+UC Riverside,Transportation**,3600,Students with Dependents
+UC San Diego,Transportation**,3530,Students with Dependents
+UC San Francisco,Transportation**,3620,Students with Dependents
+UC Santa Barbara,Transportation**,3540,Students with Dependents
+UC Santa Cruz,Transportation**,3910,Students with Dependents
+System Average,Transportation**,3530,Students with Dependents
+UC Berkely,Books and Supplies,320,Students with Dependents
+UC Davis,Books and Supplies,490,Students with Dependents
+UC Irvine,Books and Supplies,550,Students with Dependents
+UC Los Angeles,Books and Supplies,590,Students with Dependents
+UC Merced,Books and Supplies,450,Students with Dependents
+UC Riverside,Books and Supplies,570,Students with Dependents
+UC San Diego,Books and Supplies,430,Students with Dependents
+UC San Francisco,Books and Supplies,420,Students with Dependents
+UC Santa Barbara,Books and Supplies,480,Students with Dependents
+UC Santa Cruz,Books and Supplies,510,Students with Dependents
+System Average,Books and Supplies,490,Students with Dependents
